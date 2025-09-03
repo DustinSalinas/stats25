@@ -665,5 +665,6 @@ Specimen_B_14; No Name;300;20; B;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:b;2:
 Specimen_C_14;Gladiator;230;20; C;2144;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2:5:c;1p:10:c;2p:15:c"; LEGEND; C_14x[A-F][A-F]_*+C_14x[A-F]_*;"1:ability_shield;2:ability_shield_plus";20;30;" n;n;s"
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
-Specimen_F_14; Magican;180;20; F;1741;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;35;" n;n;s"
+Specimen_F_14; Magican;180;20; F;1741;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
+
 
