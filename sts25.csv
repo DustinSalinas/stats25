@@ -71,7 +71,7 @@ Specimen_EB_02; Sirenia;130;80; EB;1295;60;269;473;269;473;42;" 1:1:e;2:5:b;2p:1
 Specimen_EC_02; Behemoth;280;80; EC;1753;60;622;934;622;934;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; PVP; EC_02x[A-F][A-F]_*+EC_02x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s:20h"
 Specimen_ED_02; Shell Shock;220;80; ED;1570;60;465;699;465;699;42;" 1:1:e;2:5:d;2p:15:d;1p:10:e"; PVP; ED_02x[A-F][A-F]_*+ED_02x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";20;35;" n;n;s:20h"
 Specimen_EE_02; Supernovus;190;80; EE;1830;60;488;733; 280:AOE; 420:AOE;42;" 1:1:e;2:5:e;1p:10:e;2p:15:e"; PVP; EE_02x[A-F][A-F]_*+EE_02x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";20;35;" n;n;s:20h"
-Specimen_EF_02; Mr Marvelous;200;0; EF;2986;60;438;616;438;616;42;" 1:1:e;2:5:f;2p:15:f;1p:10:e"; GACHA; ;" 1:ability_strengthen;2:ability_strengthen_plus";30;50;" n;n;s"
+Specimen_EF_02; Mr Marvelous;200;0; EF;2463;60;421.5;592.37;421.5;592.37;42;" 1:1:e;2:5:f;2p:15:f;1p:10:e"; GACHA; ;" 1:ability_strengthen;2:ability_strengthen_plus";30;50;" n;n;s"
 Specimen_FA_02; Mekali;150;80; FA;1407;60;320;481;320;481;42;" 1:1:f;2:5:a;2p:15:a;1p:10:f"; PVP; FA_02x[A-F][A-F]_*+FA_02x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s:20h"
 Specimen_FB_02; Prince Scorpion;175;0; FB;2568;60;524;930;524;930;42;" 1:1:f;2:5:b;2p:15:b;1p:10:f"; ZODIAC; ;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
 Specimen_FC_02; Captain Peace;250;0; FC;3290;60;1074;1609;1074;1609;42;" 1:1:f;2:5:c;2p:15:c;1p:10:f"; CAPTAINPEACE; ;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
@@ -666,6 +666,7 @@ Specimen_C_14;Gladiator;230;20; C;2224;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
+
 
 
 
