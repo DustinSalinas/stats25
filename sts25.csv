@@ -383,7 +383,7 @@ Specimen_BB_10; T-3rr0r;170;20; BB;2840;60;440;691; 253:AOE; 404:AOE;42;" 1:1:b;
 Specimen_BC_10; King Lulu;290;20; BC;1981;60;1113;1644;1113;1644;42;" 1:1:b;2:5:c;2p:15:c;1p:10:b"; HEROIC; BC_10x[A-F][A-F]_*+BC_10x[A-F]_*;" 1:ability_regen;2:ability_regen_plus";25;40;" n;n;n;s"
 Specimen_BD_10; Waryena;290;20; BD;2222;60;806;1210;806;1210;42;" 1:1:b;2:5:d;2p:15:d;1p:10:b"; LEGEND; BD_10x[A-F][A-F]_*+BD_10x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-20;-40;" n;n;s"
 Specimen_BE_10; Overkill;290;20; BE;2208;60;924;1386;924;1386;42;" 1:1:b;2:5:e;2p:15:e;1p:10:b"; LEGEND; BE_10x[A-F][A-F]_*+BE_10x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";25;37;" n;n;s"
-Specimen_BF_10; The Undertaker;300;0; BF;2657;60;951;1426;951;1426;42;" 1:1:b;2:5:f;2p:15:f;1p:10:b"; GACHA; ;" 1:ability_slash;2:ability_slash_plus";-20;-40;" n;n;s"
+Specimen_BF_10; The Undertaker;300;0; BF;2789.5;60;855.5;1283.42;855.5;1283.42;42;" 1:1:b;2:5:f;2p:15:f;1p:10:b"; GACHA; ;" 1:ability_slash;2:ability_slash_plus";-20;-40;" n;n;s"
 Specimen_CA_10; Altaris;300;20; CA;2315;60;1238;1907;1238;1907;42;" 1:1:c;2:5:a;2p:15:a;1p:10:c"; HEROIC; CA_10x[A-F][A-F]_*+CA_10x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";20;35;" n;n;n;s"
 Specimen_CB_10; Frankendwarf;260;20; CB;2169;60;720;1080;720;1080;42;" 1:1:c;2:5:b;2p:15:b;1p:10:c"; LEGEND; CB_10x[A-F][A-F]_*+CB_10x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-20;-40;" n;n;s"
 Specimen_CC_10; Urgan;260;20; CC;2406;60;1126;1599; 569:AOE; 853:AOE;42;" 1:1:c;2:5:c;1p:10:c;2p:15:c"; LEGEND; CC_10x[A-F][A-F]_*+CC_10x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-15;-20;" n;n;s"
@@ -479,7 +479,7 @@ Specimen_DB_12; Great Tunnelworm;290;0; DB;4021;60;1182;1773;1182;1773;42;" 1:1:
 Specimen_DC_12; Harebrained Underminer;160;0; DC;2453;60;1344;2316;1344;2316;42;" 1:1:d;2:5:c;2p:15:c;1p:10:d"; SEASONAL; ;" 1:ability_slash;2:ability_slash_plus";-10;-40;" n;n;s"
 Specimen_DD_12; Solar Lampyrion;160;0; DD;4720;60;1095;1643; 548:AOE; 821:AOE;42;" 1:1:d;2:5:d;1p:10:d;2p:15:d"; CAPTAINPEACE; ;" 1:ability_shield;2:ability_shield_plus";25;40;" n;n;s"
 Specimen_DE_12; Leviathan;240;20; DE;2357;60;955;1433; 549:AOE; 823:AOE;42;" 1:1:d;2:5:e;2p:15:e;1p:10:d"; LEGEND; DE_12x[A-F][A-F]_*+DE_12x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-15;-25;" n;n;s"
-Specimen_DF_12; Basilisc&Tarragon;310;0; DF;3333;60;921;1381;921;1381;42;" 1:1:d;2:5:f;2p:15:f;1p:10:d"; GACHA; ;" 1:ability_regen;2:ability_regen_plus";25;38;" n;n;s"
+Specimen_DF_12; Basilisc&Tarragon;310;0; DF;3333;60;921;1380.79;921;1380.79;42;" 1:1:d;2:5:f;2p:15:f;1p:10:d"; GACHA; ;" 1:ability_regen;2:ability_regen_plus";25;38;" n;n;s"
 Specimen_EA_12; Fix-o-Drone LLK-215;190;20; EA;1986;60;727;1135;727;1135;42;" 1:1:e;2:5:a;2p:15:a;1p:10:e"; LEGEND; EA_12x[A-F][A-F]_*+EA_12x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-20;-35;" n;n;s"
 Specimen_EB_12; Starfarer Medic;150;20; EB;1891;60;447;1015;447;1015;42;" 1:1:e;2:5:b;2p:15:b;1p:10:e"; PVP; EB_12x[A-F][A-F]_*+EB_12x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";10;38;" n;n;s"
 Specimen_EC_12; Stellarian Lithominer;200;20; EC;2134;60;959;1538;959;1538;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; LEGEND; EC_12x[A-F][A-F]_*+EC_12x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-10;-15;" n;n;s"
@@ -666,6 +666,7 @@ Specimen_C_14;Gladiator;230;20; C;2224;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
+
 
 
 
