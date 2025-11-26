@@ -362,7 +362,7 @@ Specimen_EE_09; Megastral;280;20; EE;2539;60;900;1351; 451:AOE; 675:AOE;42;" 1:1
 Specimen_EF_09; Mage Ryzafredd;240;20; EF;1864;60;590;884;590;884;42;" 1:1:e;2:5:f;2p:15:f;1p:10:e"; LEGEND; EF_09x[A-F][A-F]_*+EF_09x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_FA_09; Zenguru;200;20; FA;1785;60;484;727;484;727;42;" 1:1:f;2:5:a;2p:15:a;1p:10:f"; LEGEND; FA_09x[A-F][A-F]_*+FA_09x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
 Specimen_FB_09; Hadeath;240;20; FB;2297;60;689;1035;689;1035;42;" 1:1:f;2:5:b;2p:15:b;1p:10:f"; LEGEND; FB_09x[A-F][A-F]_*+FB_09x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-20;-40;" n;n;s"
-Specimen_FC_09; Gorthaur the Cruel;300;0; FC;1277;60;577;865.79;577;865.79;42;" 1:1:f;2:5:c;2p:15:c;1p:10:f"; GACHA; ;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
+Specimen_FC_09; Gorthaur the Cruel;300;0; FC;1840;60;1420;2130.26;1420;2130.26;42;" 1:1:f;2:5:c;2p:15:c;1p:10:f"; GACHA; ;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
 Specimen_FD_09; Draco Mage;250;20; FD;1752;60;579;870;579;870;42;" 1:1:f;2:5:d;2p:15:d;1p:10:f"; LEGEND; FD_09x[A-F][A-F]_*+FD_09x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
 Specimen_FE_09; Xeleroth;290;20; FE;2145;60;769;1153;769;1153;42;" 1:1:f;2:5:e;2p:15:e;1p:10:f"; LEGEND; FE_09x[A-F][A-F]_*+FE_09x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
 Specimen_FF_09; Liquidator;215;20; FF;2279;60;669;1123; 384:AOE; 575:AOE;42;" 1:1:f;2:5:f;1p:10:f;2p:15:f"; LEGEND; FF_09x[A-F][A-F]_*+FF_09x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-15;-25;" n;n;s"
@@ -666,6 +666,7 @@ Specimen_C_14;Gladiator;230;20; C;2224;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
+
 
 
 
