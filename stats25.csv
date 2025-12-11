@@ -630,7 +630,7 @@ Specimen_AC_14; Professor Chronomantik;280;20; AC;2541;60;1041;1649;1041;1649;42
 Specimen_AD_14; No Name;200;20; AD;1130;60;312;468;312;468;42;" 1:1:a;2:5:d;2p:15:d;1p:10:a"; LEGEND; AD_14x[A-F][A-F]_*+AD_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";20;30;" n;n;s"
 Specimen_AE_14; Giganto-Moai;200;0; AE;4212;60;1011;1632; 594:AOE; 1011:AOE;42;" 1:1:a;2:5:e;2p:15:e;1p:10:a"; SEASONAL; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;40;" n;n;s"
 Specimen_AF_14; Black I.C.E.;100;20; AF;1351;60;687;975;687;975;42;" 1:1:a;2:5:f;2p:15:f;1p:10:a"; LEGEND; AF_14x[A-F][A-F]_*+AF_14x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-10;-50;" n;n;s"
-Specimen_BA_14; No Name;200;20; BA;1130;60;312;468;312;468;42;" 1:1:b;2:5:a;2p:15:a;1p:10:b"; LEGEND; BA_14x[A-F][A-F]_*+BA_14x[A-F]_*;" 1:ability_regen;2:ability_regen_plus";25;35;" n;n;s"
+Specimen_BA_14; Mecargoyle;170;20; BA;2221;60;1224;1832;1224;1832;42;" 1:1:b;2:5:a;2p:15:a;1p:10:b"; CAPTAINPEACE; BA_14x[A-F][A-F]_*+BA_14x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-60;-90;" n;n;s"
 Specimen_BB_14; No Name;200;20; BB;1130;60;312;468; 156:AOE; 234:AOE;42;" 1:1:b;2:5:b;1p:10:b;2p:15:b"; LEGEND; BB_14x[A-F][A-F]_*+BB_14x[A-F]_*;" 1:ability_regen;2:ability_regen_plus";25;35;" n;n;s"
 Specimen_BC_14; Perfitrouille;110;0; BC;1432;60;834;1518;834;1588;42;" 1:1:b;2:5:c;2p:15:c;1p:10:b"; SEASONAL; ;" 1:ability_regen;2:ability_regen_plus";20;35;" n;n;s"
 Specimen_BD_14;Greensward Rager;215;20; BD;2386;60;684;1086;684;1086;42;" 1:1:b;2:5:d;2p:15:d;1p:10:b"; LEGEND; BD_14x[A-F][A-F]_*+BD_14x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-30;-50;" n;n;s"
@@ -641,7 +641,7 @@ Specimen_CB_14; Fleet Captain Blackbeard;290;20; CB;2511;60;748;1731;748; 1265:A
 Specimen_CC_14; Blue King;320;20; CC;2882;60;944;1441; 633:AOE; 1014:AOE;42;" 1:1:c;2:5:c;1p:10:c;2p:15:c"; GACHA; CC_14x[A-F][A-F]_*+CC_14x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";40;80;" n;n;s"
 Specimen_CD_14; Don Gamberetti;260;20; CD;1972;60;1277;1972;1277;1972;42;" 1:1:c;2:5:d;2p:15:d;1p:10:c"; HEROIC; CD_14x[A-F][A-F]_*+CD_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";30;45;" n;n;s"
 Specimen_CE_14; No Name;200;20; CE;1130;60;312;468;312;468;42;" 1:1:c;2:5:e;2p:15:e;1p:10:c"; LEGEND; CE_14x[A-F][A-F]_*+CE_14x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-15;-25;" n;n;s"
-Specimen_CF_14; No Name;200;20; CF;1130;60;312;468;312;468;42;" 1:1:c;2:5:f;2p:15:f;1p:10:c"; LEGEND; CF_14x[A-F][A-F]_*+CF_14x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-15;-25;" n;n;s"
+Specimen_CF_14; Ice Dancer Yria;95;20; CF;760;60;451;916;451;916;42;" 1:1:c;2:5:f;2p:15:f;1p:10:c"; LEGEND; CF_14x[A-F][A-F]_*+CF_14x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-35;-70;" n;n;s"
 Specimen_DA_14;B.U.N. Overmind;135;0; DA;2999;60;930;1755;930;1755;42;"1:1:d;2:5:a;2p:15:a;1p:10:d";SEASONAL;;" 1:ability_slash;2:ability_slash_plus";15;25;" n;n;s"
 Specimen_DB_14; The Crawling Madness;280;0; DB;3987;60;954;1778;954; 986:AOE;42;" 1:1:d;2:5:b;2p:15:b;1p:10:d"; SEASONAL; ;" 1:ability_slash;2:ability_slash_plus";-15;-40;" n;n;s"
 Specimen_DC_14; Jurassic Terror;290;0; DC;3877;60;1527;2047;1527;2047;42;" 1:1:d;2:5:c;2p:15:c;1p:10:d"; CAPTAINPEACE; ;" 1:ability_slash;2:ability_slash_plus";-30;-60;" n;n;s"
@@ -666,6 +666,7 @@ Specimen_C_14;Gladiator;230;20; C;2224;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
+
 
 
 
