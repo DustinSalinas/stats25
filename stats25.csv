@@ -627,7 +627,7 @@ Specimen_F_98; No Name;300;20; F;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:f;2:
 Specimen_AA_14; No Name;200;20; AA;1130;60;312;468; 156:AOE; 234:AOE;42;" 1:1:a;2:5:a;1p:10:a;2p:15:a"; LEGEND; AA_14x[A-F][A-F]_*+AA_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";20;30;" n;n;s"
 Specimen_AB_14; The Screencaster;180;20; AB;4557;60;1047;1544;1047;1544;42;" 1:1:a;2:5:b;2p:15:b;1p:10:a"; SEASONAL; AB_14x[A-F][A-F]_*+AB_14x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-25;-40;" n;n;s"
 Specimen_AC_14; Professor Chronomantik;280;20; AC;2541;60;1041;1649;1041;1649;42;" 1:1:a;2:5:c;2p:15:c;1p:10:a"; HEROIC; AC_14x[A-F][A-F]_*+AC_14x[A-F]_*;" 1:ability_weaken;2:ability_weaken_plus";-10;-20;" n;n;n;s"
-Specimen_AD_14; No Name;200;20; AD;1130;60;312;468;312;468;42;" 1:1:a;2:5:d;2p:15:d;1p:10:a"; LEGEND; AD_14x[A-F][A-F]_*+AD_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";20;30;" n;n;s"
+Specimen_AD_14; Origamix;90;20; AD;354;60;584;870;584;870;42;" 1:1:a;2:5:d;2p:15:d;1p:10:a"; LEGEND; AD_14x[A-F][A-F]_*+AD_14x[A-F]_*;" 1:ability_strengthen;2:ability_strengthen_plus";20;35;" n;n;s"
 Specimen_AE_14; Giganto-Moai;200;0; AE;4212;60;1011;1632; 594:AOE; 1011:AOE;42;" 1:1:a;2:5:e;2p:15:e;1p:10:a"; SEASONAL; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;40;" n;n;s"
 Specimen_AF_14; Black I.C.E.;100;20; AF;1351;60;687;975;687;975;42;" 1:1:a;2:5:f;2p:15:f;1p:10:a"; LEGEND; AF_14x[A-F][A-F]_*+AF_14x[A-F]_*;" 1:ability_retaliate;2:ability_retaliate_plus";-10;-50;" n;n;s"
 Specimen_BA_14; Mecargoyle;170;20; BA;2221;60;1224;1832;1224;1832;42;" 1:1:b;2:5:a;2p:15:a;1p:10:b"; CAPTAINPEACE; BA_14x[A-F][A-F]_*+BA_14x[A-F]_*;" 1:ability_slash;2:ability_slash_plus";-60;-90;" n;n;s"
@@ -667,6 +667,7 @@ Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
 Specimen_DE_15; Stellar Shepard;280;20; DE;5011;60;1843;2621; 1843; 2621;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_shield;2:ability_shield_plus";40;60;" n;n;s"
+
 
 
 
