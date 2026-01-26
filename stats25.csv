@@ -667,6 +667,7 @@ Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:
 Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
 Specimen_DE_15; Stellar Shepard;280;20; DE;5011;60;1843;2621; 1843; 2621;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_shield;2:ability_shield_plus";40;60;" n;n;s"
+Specimen_AB_15; Glitchy Heart;280;20; DE;1000;60;100;500; 100; 500;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_shield;2:ability_shield_plus";40;60;" n;n;s"
 
 
 
