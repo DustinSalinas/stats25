@@ -664,10 +664,12 @@ Specimen_A_14;Automaton;165;20; A;1688;60;744;1111; 531:AOE; 821:AOE;42;" 1:1:a;
 Specimen_B_14; Spectroplasm;185;20; B;1951;60;721;1029; 561:AOE; 721:AOE;42;" 1:1:b;2:5:neutre;1p:10:b;2p:15:neutre"; LEGEND; ;" 1:ability_weaken;2:ability_weaken_plus";-30;-40;" n;n;s"
 Specimen_C_14;Gladiator;230;20; C;2224;60;1124;1443;833:AOE;1124:AOE;42;"1:1:c;2:5:c;1p:10:c;2p:15:c"; LEGEND; C_14x[A-F][A-F]_*+C_14x[A-F]_*;"1:ability_shield;2:ability_shield_plus";30;45;" n;n;s"
 Specimen_D_14; No Name;300;20; D;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:d;2:5:neutre;1p:10:d;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-20;-30;" n;n;s"
-Specimen_E_14; No Name;300;20; E;1130;60;312;468; 342:AOE; 513:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";20;30;" n;n;s"
+Specimen_E_14; Spiraxia;245;20; E;2055;60;944;1363; 654:AOE; 976:AOE;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_regen;2:ability_regen_plus";35;50;" n;n;s"
+Specimen_BF_14; Irradiance;290;20; B;1861;60;1514;2184; 1514; 2184;42;" 1:1:e;2:5:neutre;1p:10:e;2p:15:neutre"; LEGEND; ;" 1:ability_slash;2:ability_slash_plus";-60;-100;" n;n;s"
 Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2:5:neutre;1p:10:f;2p:15:neutre"; LEGEND; ;" 1:ability_strengthen;2:ability_strengthen_plus";25;35;" n;n;s"
 Specimen_DE_15; Stellar Shepard;280;20; DE;5011;60;1843;2621; 1843; 2621;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_shield;2:ability_shield_plus";40;60;" n;n;s"
-Specimen_AB_15; Glitchy Heart;185;20; DE;3865;60;1541;2127; 1541; 2127;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_retaliate;2:ability_retaliate_plus";-35;-50;" n;n;s"
+Specimen_AB_15; Glitchy Heart;185;20; AB;3865;60;1541;2127; 1541; 2127;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_retaliate;2:ability_retaliate_plus";-35;-50;" n;n;s"
+
 
 
 
