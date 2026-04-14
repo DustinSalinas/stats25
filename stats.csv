@@ -408,7 +408,7 @@ Specimen_EA_11;Dreadnought;Dreadnought;275;4488;1511;2266;1511;2266;CAPTAINPEACE
 Specimen_EA_12;Fix-o-Drone LLK-215;Bricodron LLK-215;190;1986;727;1135;727;1135;LEGEND;ability_slash;ability_slash_plus;-20;-35
 Specimen_EA_13;Space Pilgrim;Peregrino Espacial;170;1872;761;1244;761;984:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;15;32
 Specimen_EA_14;D.A.B;D.A.B.;270;3148;828;1244;828;1244;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-35
-Specimen_EA_15;Kereon of the Abyss;Kereon del Abismo;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
+Specimen_EA_15;Kereon of the Abyss;Kereon del Abismo;100;1000;100;150;100;150;HEROIC;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_EA_99;Celsius Thermoid;Termodroide Celsius;235;4755;984:AOE;2004:AOE;984:AOE;2004:AOE;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;20;45
 Specimen_EB_01;Tutti Gooey;Tutti Viscosi;230;1648;499;749;499;749;BINGO;ability_strengthen;ability_strengthen_plus;20;35
 Specimen_EB_02;Sirenia;Sirenia;130;1295;269;473;269;473;PVP;ability_strengthen;ability_strengthen_plus;20;40
