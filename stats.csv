@@ -26,14 +26,14 @@ Specimen_AB_04;Commander Ender;Commander Ender;260;1846;869;1254;869;1254;LEGEND
 Specimen_AB_05;Neo-Urban XIII\n;Neo Urban XIII;300;2552;558;1384;558;1384;GACHA;ability_strengthen;ability_strengthen_plus;12;33
 Specimen_AB_06;Drusella;Drusella;110;1422;264;535;264;535;LEGEND;ability_shield;ability_shield_plus;20;30
 Specimen_AB_07;Crusher;Aplastador;250;3210;979;1872;979;1872;CAPTAINPEACE;ability_regen;ability_regen_plus;30;45
-Specimen_AB_08;High Gravelord;Gran Se�or de las Tumbas;160;1533;332;791;332;791;LEGEND;ability_weaken;ability_weaken_plus;-22;-33
+Specimen_AB_08;High Gravelord;Gran Señor de las Tumbas;160;1533;332;791;332;791;LEGEND;ability_weaken;ability_weaken_plus;-22;-33
 Specimen_AB_09;Grumpy Claus;Grumpy Claus;230;3760;1119;1679;1119;1679;SEASONAL;ability_shield;ability_shield_plus;20;30
 Specimen_AB_10;S-K-Venger;S-K-Venger;290;1925;1141;1795;1141;1795;LEGEND;ability_shield;ability_shield_plus;22;35
 Specimen_AB_11;Enviro Mk III;Enviro 3.0;170;2026;516;774;339:AOE;498:AOE;LEGEND;ability_weaken;ability_weaken_plus;-25;-25
 Specimen_AB_12;Unstabot;Disfuncidroide;245;2351;844;1266;422:AOE;633:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-25
 Specimen_AB_13;The Architect;El Arquitecto;225;1911;1132;1911;1132;1911;HEROIC;ability_weaken;ability_weaken_plus;-25;-35
 Specimen_AB_14;The Screencaster;El Presentador;180;4557;1047;1544;1047;1544;SEASONAL;ability_weaken;ability_weaken_plus;-25;-40
-Specimen_AB_15;Glitchy Heart;El Glitchy Coraz�n;185;3865;1541;2127;1541;2127;SEASONAL;ability_retaliate;ability_retaliate_plus;-35;-50
+Specimen_AB_15;Glitchy Heart;El Glitchy Corazón;185;3865;1541;2127;1541;2127;SEASONAL;ability_retaliate;ability_retaliate_plus;-35;-50
 Specimen_AB_99;Battle Simulacrum;Simulacro de Combate;285;5864;1000;1421:AOE;635:AOE;1421:AOE;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;15;45
 Specimen_AC_01;Stealth Bot;Humanoide Perfido;200;1431;391;587;391;587;BINGO;ability_shield;ability_shield_plus;20;45
 Specimen_AC_02;Captain Wrenchfury;Capitan Mecano;210;2342;474;811;474;811;RECIPE;ability_regen;ability_regen_plus;30;60
@@ -92,7 +92,7 @@ Specimen_AF_08;H0ud1n1;H0ud1n1;130;1693;402;603;402;603;LEGEND;ability_shield;ab
 Specimen_AF_09;Steam Warlord;Caudillo Steam;225;2415;606;906;606;906;HEROIC;ability_retaliate;ability_retaliate_plus;-30;-45
 Specimen_AF_10;El Veneno;El Veneno;180;1733;399;622;399;622;LEGEND;ability_strengthen;ability_strengthen_plus;20;35
 Specimen_AF_11;Heimdall;Heimdall;130;3321;900;1380;900;1380;CAPTAINPEACE;ability_shield;ability_shield_plus;16;28
-Specimen_AF_12;Dream Defender;Protector de los Sue�os;165;2746;1025;1966;1025;1966;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-10;-20
+Specimen_AF_12;Dream Defender;Protector de los Sueños;165;2746;1025;1966;1025;1966;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-10;-20
 Specimen_AF_13;Epoch Golem;Golem de Epocas;290;3480;843;1113;843;1113;LEGEND;ability_retaliate;ability_retaliate_plus;-23;-35
 Specimen_AF_14;Black I.C.E.;Black I.C.E.;100;1351;687;875;687;875;LEGEND;ability_retaliate;ability_retaliate_plus;-10;-65
 Specimen_AF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
@@ -106,7 +106,7 @@ Specimen_B_13;GAR  Zombie Sovereign;GAR, Zombi Soberano;270;3625;807;1311;574:AO
 Specimen_B_14;Spectroplasm;Espectroplasma;185;1951;721;1029;561:AOE;721:AOE;LEGEND;ability_weaken;ability_weaken_plus;-30;-40
 Specimen_B_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_BA_01;Zomborg;Zomborg;220;1846;439;659;439;659;BINGO;ability_regen;ability_regen_plus;30;55
-Specimen_BA_02;Terrordoll;Mu�eca Diabolica;130;1739;236;374;236;374;RECIPE;ability_retaliate;ability_retaliate_plus;-15;-28
+Specimen_BA_02;Terrordoll;Muñeca Diabolica;130;1739;236;374;236;374;RECIPE;ability_retaliate;ability_retaliate_plus;-15;-28
 Specimen_BA_03;Triple-B;Triple-B;280;1982;639;960;639;960;LEGEND;ability_regen;ability_regen_plus;30;48
 Specimen_BA_04;The Experiment;El Experimento;180;1595;365;549;365;549;LEGEND;ability_regen;ability_regen_plus;30;55
 Specimen_BA_05;Doctor Blaw;Doctor Blaw;250;1834;542;813;542;813;LEGEND;ability_regen;ability_regen_plus;30;48
@@ -116,8 +116,8 @@ Specimen_BA_08;Naraxis;Naraxis;170;1848;335;543;335;543;LEGEND;ability_regen;abi
 Specimen_BA_09;Excavalypse;Excavalipsis;300;2312;814;1221;814;1221;LEGEND;ability_regen;ability_regen_plus;30;48
 Specimen_BA_10;Hellsaw;Hellsaw;245;2585;732;1098;732;1098;LEGEND;ability_regen;ability_regen_plus;30;55
 Specimen_BA_11;Roadmaster;Roadmaster;165;2689;225:AOE;458:AOE;392;788;LEGEND;ability_weaken;ability_weaken_plus;-10;-22
-Specimen_BA_12;Cre$u$;Cr�\$u\$;290;2499;607:AOE;1311:AOE;1077;1782;LEGEND;ability_weaken;ability_weaken_plus;-25;-40
-Specimen_BA_13;The Anarchic;La An�rquica;175;1488;445;845:AOE;445;1224;LEGEND;ability_strengthen;ability_strengthen_plus;10;50
+Specimen_BA_12;Cre$u$;Cr\$u\$;290;2499;607:AOE;1311:AOE;1077;1782;LEGEND;ability_weaken;ability_weaken_plus;-25;-40
+Specimen_BA_13;The Anarchic;La Anárquica;175;1488;445;845:AOE;445;1224;LEGEND;ability_strengthen;ability_strengthen_plus;10;50
 Specimen_BA_14;Mecargoyle;Mecargola;170;2221;1224;1832;1224;1832;CAPTAINPEACE;ability_slash;ability_slash_plus;-60;-90
 Specimen_BA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_BB_01;Leech Lord;Lord Blood;240;2151;609;914;349:AOE;525:AOE;BINGO;ability_regen;ability_regen_plus;30;55
@@ -135,7 +135,7 @@ Specimen_BB_12;The Lantern Doctor;Doctor del Farol;210;4119;1211;2016;606:AOE;14
 Specimen_BB_13;The Phosphorescent;El Fosforescente;240;2833;1011;1553;586:AOE;1077:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-40
 Specimen_BB_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_BC_01;Dire Despot;Despota Negro;270;1919;559;840;559;840;BINGO;ability_regen;ability_regen_plus;30;48
-Specimen_BC_02;Captain Bag ‘O’ Bones;Capitan Osamenta;180;1351;347;520;347;520;RECIPE;ability_strengthen;ability_strengthen_plus;20;35
+Specimen_BC_02;Captain Bag âOâ Bones;Capitan Osamenta;180;1351;347;520;347;520;RECIPE;ability_strengthen;ability_strengthen_plus;20;35
 Specimen_BC_03;Micky Krueger;Micky Krueger;130;1414;331;497;331;497;LEGEND;ability_regen;ability_regen_plus;30;50
 Specimen_BC_04;George Washington;George Washington;300;3926;1284;1927;1284;1927;SEASONAL;ability_regen;ability_regen_plus;30;48
 Specimen_BC_05;Psycho Chainsawer;Loco de la Motosierra;220;1727;465;699;465;699;LEGEND;ability_regen;ability_regen_plus;30;55
@@ -274,7 +274,7 @@ Specimen_CE_10;Captain Achabe;Capitan Achabe;130;3950;667;1130;667;1130;CAPTAINP
 Specimen_CE_11;Chun-Lei;Chun-Lei;100;875;280;535;280;535;LEGEND;ability_strengthen;ability_strengthen_plus;21;27
 Specimen_CE_12;Regulo&Juzya;Regulo&Juzya;170;2560;1240;2480;1240;2480;SEASONAL;ability_retaliate;ability_retaliate_plus;-10;-20
 Specimen_CE_13;Atlas;Atlas;235;2331;1033;1542;1033;1542;HEROIC;ability_strengthen;ability_strengthen_plus;15;35
-Specimen_CE_14;Cosmic Dandy;Dandy C�smico;170;1144;1232:AOE;1232:AOE;1232:AOE;1232:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;15;25
+Specimen_CE_14;Cosmic Dandy;Dandy Cósmico;170;1144;1232:AOE;1232:AOE;1232:AOE;1232:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;15;25
 Specimen_CE_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_CE_99;Kolossus;Kolossus;285;5780;1672;2508;1672;2508;CAPTAINPEACE;ability_retaliate;ability_retaliate_plus;-8;-12
 Specimen_CF_01;Valkyrie;Valkiria;200;1556;417;625;417;625;BINGO;ability_retaliate;ability_retaliate_plus;-15;-44
@@ -298,7 +298,7 @@ Specimen_D_03;Easter Gunny;Rambit;240;4218;1414;2123;708:AOE;1061:AOE;SEASONAL;a
 Specimen_D_12;Howlosaurus;Aullosaurio;300;2158;585:AOE;928:AOE;924;1470;LEGEND;ability_slash;ability_slash_plus;-22;-40
 Specimen_D_13;Sasquatch;Sasquatch;260;1988;993;1493;633:AOE;896:AOE;HEROIC;ability_slash;ability_slash_plus;-25;-50
 Specimen_D_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
-Specimen_DA_01;Reptoïd;Reptoide;150;1492;298;485;298;485;BINGO;ability_slash;ability_slash_plus;-20;-40
+Specimen_DA_01;ReptoÃ¯d;Reptoide;150;1492;298;485;298;485;BINGO;ability_slash;ability_slash_plus;-20;-40
 Specimen_DA_02;Arachno;Aracno;270;2208;641;808;641;808;PVP;ability_slash;ability_slash_plus;-20;-80
 Specimen_DA_03;Mantidroid;Mantidroide;220;1755;475;981;475;981;RECIPE;ability_regen;ability_regen_plus;25;42
 Specimen_DA_04;Rhino Squadron;Escuadron Rhino;250;1953;585;878;585;878;LEGEND;ability_slash;ability_slash_plus;-20;-40
@@ -310,7 +310,7 @@ Specimen_DA_09;Sound Killah;Sound Killah;290;2136;1358;2009;1358;2009;GACHA;abil
 Specimen_DA_10;Hawkeye;Hawkeye;140;1408;334;643;334;643;LEGEND;ability_slash;ability_slash_plus;-20;-45
 Specimen_DA_11;The An0maly;An0malie;120;1672;264;672;325;715;LEGEND;ability_shield;ability_shield_plus;12;36
 Specimen_DA_12;Data Snail;Tecnocaracol;275;2995;1085;1629;1085;1629;LEGEND;ability_shield;ability_shield_plus;25;50
-Specimen_DA_13;Dreaming Anthroborg;Antropobot So�ador;255;2642;634;971;634;971;LEGEND;ability_strengthen;ability_strengthen_plus;30;45
+Specimen_DA_13;Dreaming Anthroborg;Antropobot Soñador;255;2642;634;971;634;971;LEGEND;ability_strengthen;ability_strengthen_plus;30;45
 Specimen_DA_14;B.U.N. Overmind;B.U.N. Genio;135;2999;930;1755;930;1755;SEASONAL;ability_slash;ability_slash_plus;15;25
 Specimen_DA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_DB_01;Cerberus;Cerbero;170;1485;320;481;320;481;BINGO;ability_slash;ability_slash_plus;-20;-55
@@ -319,7 +319,7 @@ Specimen_DB_03;Cobrakai;Cobrakai;260;1856;569;854;569;854;LEGEND;ability_slash;a
 Specimen_DB_04;Louis XVI;Louis XVI;220;3210;979;1572;979;1572;SEASONAL;ability_slash;ability_slash_plus;-20;-40
 Specimen_DB_05;Brawler;Brawler;290;3152;1150;1727;1150;1727;VIDEOGAME;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_DB_06;Breaver;Casto;140;1253;271;407;271;407;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-25
-Specimen_DB_07;Lord Dragon;Se�or Dragon;95;995;207;303;207;303;HEROIC;ability_slash;ability_slash_plus;-25;-85
+Specimen_DB_07;Lord Dragon;Señor Dragon;95;995;207;303;207;303;HEROIC;ability_slash;ability_slash_plus;-25;-85
 Specimen_DB_08;Deadnosaur;Tiranozomb;280;2032;715;1423;715;1423;LEGEND;ability_slash;ability_slash_plus;-20;-40
 Specimen_DB_09;Horax;Horax;260;2028;673;1010;673;1010;LEGEND;ability_slash;ability_slash_plus;-20;-40
 Specimen_DB_10;Buffalor;Buffalor;280;2030;923;1417;923;1417;LEGEND;ability_slash;ability_slash_plus;-20;-40
@@ -331,7 +331,7 @@ Specimen_DB_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;abi
 Specimen_DC_01;Rakshasa;Rakshasa;140;1444;275;414;275;414;BINGO;ability_slash;ability_slash_plus;-20;-50
 Specimen_DC_02;Leohart;Leohart;240;2155;799;1314;799;1314;ZODIAC;ability_slash;ability_slash_plus;-20;-45
 Specimen_DC_03;Gargantus;Gargantus;210;1914;501;802;501;802;GACHA;ability_slash;ability_slash_plus;-50;-75
-Specimen_DC_04;Cézanne;Cezanne;290;1917;700;1250;700;1250;LEGEND;ability_slash;ability_slash_plus;-20;-37
+Specimen_DC_04;CÃ©zanne;Cezanne;290;1917;700;1250;700;1250;LEGEND;ability_slash;ability_slash_plus;-20;-37
 Specimen_DC_05;Monkey King;Rey Mono;160;1605;342;515;342;515;LEGEND;ability_slash;ability_slash_plus;-20;-40
 Specimen_DC_06;Grannyvore;Comeabuelas;270;2330;733;1151;733;1151;LEGEND;ability_regen;ability_regen_plus;25;38
 Specimen_DC_07;Noren;Noren;260;4338;1460;2194;1460;2194;CAPTAINPEACE;ability_slash;ability_slash_plus;-20;-30
@@ -356,7 +356,7 @@ Specimen_DD_10;Kameo;Kameo;120;1710;416;628;245:AOE;374:AOE;LEGEND;ability_slash
 Specimen_DD_11;Abyssal Terror;Terror Abisal;150;1973;561;1041;323:AOE;783:AOE;LEGEND;ability_slash;ability_slash_plus;-30;-50
 Specimen_DD_12;Solar Lampyrion;Lampyrion Solar;160;4720;1095;1643;548:AOE;821:AOE;CAPTAINPEACE;ability_shield;ability_shield_plus;25;40
 Specimen_DD_13;Lama Sensei;Llama Sensei;150;1859;463:AOE;822:AOE;812;1332;LEGEND;ability_strengthen;ability_strengthen_plus;15;35
-Specimen_DD_14;Bestial Overlord;Se�or Bestial;280;2441;977;1488;695:AOE;1182:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-40
+Specimen_DD_14;Bestial Overlord;Señor Bestial;280;2441;977;1488;695:AOE;1182:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-40
 Specimen_DD_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_DE_01;Parasite Queen;Reina Parasita;130;1316;231;347;231;347;BINGO;ability_slash;ability_slash_plus;-20;-70
 Specimen_DE_02;Cosmo Kong;Cosmo Kong;230;1762;491;737;491;737;LEGEND;ability_slash;ability_slash_plus;-20;-50
@@ -408,7 +408,7 @@ Specimen_EA_11;Dreadnought;Dreadnought;275;4488;1511;2266;1511;2266;CAPTAINPEACE
 Specimen_EA_12;Fix-o-Drone LLK-215;Bricodron LLK-215;190;1986;727;1135;727;1135;LEGEND;ability_slash;ability_slash_plus;-20;-35
 Specimen_EA_13;Space Pilgrim;Peregrino Espacial;170;1872;761;1244;761;984:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;15;32
 Specimen_EA_14;D.A.B;D.A.B.;270;3148;828;1244;828;1244;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-35
-Specimen_EA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
+Specimen_EA_15;Kereon of the Abyss;Kereon del Abismo;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_EA_99;Celsius Thermoid;Termodroide Celsius;235;4755;984:AOE;2004:AOE;984:AOE;2004:AOE;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;20;45
 Specimen_EB_01;Tutti Gooey;Tutti Viscosi;230;1648;499;749;499;749;BINGO;ability_strengthen;ability_strengthen_plus;20;35
 Specimen_EB_02;Sirenia;Sirenia;130;1295;269;473;269;473;PVP;ability_strengthen;ability_strengthen_plus;20;40
@@ -483,17 +483,17 @@ Specimen_EF_10;Divastator;Divastator;150;1555;336;520;336;520;LEGEND;ability_wea
 Specimen_EF_11;Dimentio;Dimentio;113;1427;353;1111;353;1111;LEGEND;ability_retaliate;ability_retaliate_plus;-10;-23
 Specimen_EF_12;X'astuth;X'astuth;270;2242;873;1259;873;1259;HEROIC;ability_slash;ability_slash_plus;-35;-70
 Specimen_EF_13;Achernar;Achernar;165;1873;411:AOE;766:AOE;822;1391;LEGEND;ability_regen;ability_regen_plus;12;30
-Specimen_EF_14;K'Yu T'ypa�;K'yu T'ypa�;110;2114;755;1088;411:AOE;766:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-20;-30
+Specimen_EF_14;K'Yu T'ypaï;K'yu T'ypaï;110;2114;755;1088;411:AOE;766:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-20;-30
 Specimen_EF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_EF_99;Singularity Wizard;Mago de la Singularidad;250;4101;752:AOE;1128:AOE;1370;2000;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;24;33
 Specimen_F_01;Demon;Diablesa;210;1627;461;690;461;690;BINGO;ability_weaken;ability_weaken_plus;-20;-30
 Specimen_F_03;Snowmage;Mago de las Nieves;160;2591;615;922;354:AOE;529:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_F_04;Leprechaun;Leprechaun;190;3512;584:AOE;877:AOE;643:AOE;965:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_F_12;Summoner;Invocador;120;1590;477;762;488;798;LEGEND;ability_weaken;ability_weaken_plus;-20;-30
-Specimen_F_13;Väinämöinen;V�in�m�inen;150;1713;533;799;266:AOE;399:AOE;HEROIC;ability_slash;ability_slash_plus;-30;-60
+Specimen_F_13;VÃ¤inÃ¤mÃ¶inen;Väinämöinen;150;1713;533;799;266:AOE;399:AOE;HEROIC;ability_slash;ability_slash_plus;-30;-60
 Specimen_F_14;Magican;Mago;170;1691;784;1134;531:AOE;784:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;25;35
 Specimen_F_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
-Specimen_FA_01;Techno Taoïst;Tecno Tao;250;1590;512;769;512;769;BINGO;ability_weaken;ability_weaken_plus;-15;-25
+Specimen_FA_01;Techno TaoÃ¯st;Tecno Tao;250;1590;512;769;512;769;BINGO;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FA_02;Mekali;Mekali;150;1407;320;481;320;481;PVP;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FA_03;Bazzinger;Bazzinger;200;1502;414;622;414;622;LEGEND;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FA_04;Banker;Banker;200;2635;728;1092;728;1092;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-15;-25
@@ -512,7 +512,7 @@ Specimen_FB_01;Grim Reapress;La Parca;290;1829;660;992;660;992;BINGO;ability_wea
 Specimen_FB_02;Prince Scorpion;Principe Escorpion;175;2568;524;930;524;930;ZODIAC;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FB_03;Anubis;Anubis;230;1725;529;794;529;794;LEGEND;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FB_04;Wicked Witch;Bruja Malvada;240;1763;756;1234;756;1234;LEGEND;ability_weaken;ability_weaken_plus;-15;-22
-Specimen_FB_05;Bones ‘n’ Roses;Hardcorius;190;1844;446;695;446;695;LEGEND;ability_weaken;ability_weaken_plus;-15;-20
+Specimen_FB_05;Bones ânâ Roses;Hardcorius;190;1844;446;695;446;695;LEGEND;ability_weaken;ability_weaken_plus;-15;-20
 Specimen_FB_06;Sorceress;Hechicera;100;1145;248;522;248;522;LEGEND;ability_weaken;ability_weaken_plus;-15;-20
 Specimen_FB_07;The Fates;Las Moiras;170;1813;311;567;311;567;LEGEND;ability_weaken;ability_weaken_plus;-17;-28
 Specimen_FB_08;Gozer;Gozer;200;1879;403;724;403;724;LEGEND;ability_regen;ability_regen_plus;30;55
@@ -520,7 +520,7 @@ Specimen_FB_09;Hadeath;Hadeath;240;2297;689;1035;689;1035;LEGEND;ability_slash;a
 Specimen_FB_10;Yggdrasil;Yggdrasil;260;2617;746;1155;746;1155;HEROIC;ability_retaliate;ability_retaliate_plus;-15;-25
 Specimen_FB_11;Nightmare Aberration;Pesadilla Viviente;85;1482;168:AOE;252:AOE;320;472;LEGEND;ability_weaken;ability_weaken_plus;-17;-25
 Specimen_FB_12;Maiden of Twilight;Dama del Crepusculo;320;3580;1030;1437;1030;1437;HEROIC;ability_regen;ability_regen_plus;20;40
-Specimen_FB_13;Candlelight;Alt�simo Candelabro;250;2043;741:AOE;1145:AOE;741:AOE;1145:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;30;40
+Specimen_FB_13;Candlelight;Altísimo Candelabro;250;2043;741:AOE;1145:AOE;741:AOE;1145:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;30;40
 Specimen_FB_14;Zagam, Great King of Greed;Zagam, Gran Rey De La Avaricia;245;6666;1666;2351;1666;2351;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FB_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_FC_01;Gandolphus;Gandolphus;110;1137;204;377;204;377;BINGO;ability_weaken;ability_weaken_plus;-15;-40
@@ -548,7 +548,7 @@ Specimen_FD_07;Phoenix;Fenix;250;2016;5;1355;5;1355;HEROIC;ability_regen;ability
 Specimen_FD_08;Omikami;Omikami;260;1957;741;1052;741;1052;LEGEND;ability_slash;ability_slash_plus;-30;-50
 Specimen_FD_09;Draco Mage;Dracomago;250;2452;579;977;579;977;LEGEND;ability_weaken;ability_weaken_plus;-15;-22
 Specimen_FD_10;Master Paw;Master Paw;290;3683;1342;2016;1342;2016;COMMUNITY;ability_weaken;ability_weaken_plus;-15;-25
-Specimen_FD_11;Ishi no Ōkami;Ishi no ?kami;160;1744;330;782;330;782;PVP;ability_slash;ability_slash_plus;-15;-40
+Specimen_FD_11;Ishi no Åkami;Ishi no ?kami;160;1744;330;782;330;782;PVP;ability_slash;ability_slash_plus;-15;-40
 Specimen_FD_12;Simurgh;Simurgh;120;1399;687;1030;515;515:AOE;LEGEND;ability_weaken;ability_weaken_plus;-15;-20
 Specimen_FD_13;Tezcatlipoca;Tezcatlipoca;225;2599;773:AOE;1474:AOE;1531;2547;CAPTAINPEACE;ability_slash;ability_slash_plus;-40;-60
 Specimen_FD_14;Vanir Queen Freyja;Freyja, Reina de los Vanir;245;4088;1241;2447;1241;2447;SEASONAL;ability_regen;ability_regen_plus;-20;-30
@@ -566,10 +566,10 @@ Specimen_FE_10;Bahamut;Bahamut;150;1707;361;543;361;543;LEGEND;ability_regen;abi
 Specimen_FE_11;Pierrot;Pierrot;210;1997;829;1244;415:AOE;622:AOE;HEROIC;ability_shield;ability_shield_plus;32;48
 Specimen_FE_12;Algid Exocelestial;Exoceleste algido;240;3130;724:AOE;1486:AOE;1448;2172;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-10;-22
 Specimen_FE_13;Vivaldi;Vivaldi;160;2955;643:AOE;1045:AOE;643:AOE;1045:AOE;CAPTAINPEACE;ability_regen;ability_regen_plus;20;30
-Specimen_FE_14;Seraphic Core;N�cleo ser�fico;235;2074;580:AOE;944:AOE;948;1460;LEGEND;ability_regen;ability_regen_plus;30;50
+Specimen_FE_14;Seraphic Core;Núcleo seráfico;235;2074;580:AOE;944:AOE;948;1460;LEGEND;ability_regen;ability_regen_plus;30;50
 Specimen_FE_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_FE_99;Engineer;Ingeniero;260;2012;718;1477;718;1477;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-28
-Specimen_FF_01;Pit Lord;Se�or del Abismo;300;2583;949;1424;545:AOE;820:AOE;BINGO;ability_weaken;ability_weaken_plus;-15;-25
+Specimen_FF_01;Pit Lord;Señor del Abismo;300;2583;949;1424;545:AOE;820:AOE;BINGO;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FF_02;Retribution;Castigo;180;1781;456;686;263:AOE;394:AOE;PVP;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FF_03;Blood Berry;Mandragora;130;1922;313;469;180:AOE;270:AOE;LEGEND;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FF_04;Monolith;Monolith;220;2126;600;805;346:AOE;518:AOE;LEGEND;ability_weaken;ability_weaken_plus;-15;-25
@@ -582,6 +582,6 @@ Specimen_FF_10;Bregbeam;Bregbeam;300;3250;1139;1708;575:AOE;863:AOE;LEGEND;abili
 Specimen_FF_11;Gerard Steelgarden;Gerard Steelgarden;240;2901;975;1463;488:AOE;731:AOE;HEROIC;ability_shield;ability_shield_plus;28;42
 Specimen_FF_12;Timeless Archivist;Archivista Eterno;190;3046;861;1208;516:AOE;775:AOE;HEROIC;ability_shield;ability_shield_plus;20;46
 Specimen_FF_13;Sakuraboshi;Sakuraboshi;220;1948;814;1421;581:AOE;1134:AOE;LEGEND;ability_weaken;ability_weaken_plus;-20;-40
-Specimen_FF_14;Twilight Prophet;Profeta del Crep�sculo;280;1130;814;3017;1331;2024:AOE;SEASONAL;ability_shield;ability_shield_plus;25;40
+Specimen_FF_14;Twilight Prophet;Profeta del Crepúsculo;280;1130;814;3017;1331;2024:AOE;SEASONAL;ability_shield;ability_shield_plus;25;40
 Specimen_FF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_FF_99;Emotional Maskerade;Mascarada Emocional;295;5330;1441;2631;1032:AOE;1811:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-24;-37
