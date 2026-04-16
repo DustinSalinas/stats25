@@ -669,7 +669,7 @@ Specimen_F_14; Magican;170;20; F;1691;60;784;1134; 531:AOE; 784:AOE;42;" 1:1:f;2
 Specimen_DE_15; Stellar Shepard;280;20; DE;5011;60;1843;2621; 1843; 2621;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_shield;2:ability_shield_plus";40;60;" n;n;s"
 Specimen_AB_15; Glitchy Heart;185;20; DE;3865;60;1541;2127; 1541; 2127;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_retaliate;2:ability_retaliate_plus";-35;-50;" n;n;s"
 Specimen_BE_15; The Hunger;260;20; DE;3120;60;2430;3941; 2430; 3941;42;" 1:1:e;2:5:c;2p:15:c;1p:10:e"; SEASONAL; ;" 1:ability_regen;2:ability_regen_plus";20;35;" n;n;s"
-Specimen_EA_15; Kereon of the Abyss;260;20; CD;1972;60;1277;1972;1277;1972;42;" 1:1:c;2:5:d;2p:15:d;1p:10:c"; HEROIC; CD_14x[A-F][A-F]_*+CD_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";30;45;" n;n;s"
+Specimen_EA_15; Kereon of the Abyss;265;20; CD;2611;60;1158;1784;1158;1784;42;" 1:1:c;2:5:d;2p:15:d;1p:10:c"; HEROIC; CD_14x[A-F][A-F]_*+CD_14x[A-F]_*;" 1:ability_shield;2:ability_shield_plus";44;63;" n;n;s"
 
 
 
