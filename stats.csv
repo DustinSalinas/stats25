@@ -357,7 +357,7 @@ Specimen_DD_11;Abyssal Terror;Terror Abisal;150;1973;561;1041;323:AOE;783:AOE;LE
 Specimen_DD_12;Solar Lampyrion;Lampyrion Solar;160;4720;1095;1643;548:AOE;821:AOE;CAPTAINPEACE;ability_shield;ability_shield_plus;25;40
 Specimen_DD_13;Lama Sensei;Llama Sensei;150;1859;463:AOE;822:AOE;812;1332;LEGEND;ability_strengthen;ability_strengthen_plus;15;35
 Specimen_DD_14;Bestial Overlord;Señor Bestial;280;2441;977;1488;695:AOE;1182:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-40
-Specimen_DD_15;Platypus;Platypus;170;3731;1241;1799;1011:AOE;1331:AOE;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-20;-40
+Specimen_DD_15;Platypus;Ornitorrinco;170;3731;1241;1799;1011:AOE;1331:AOE;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-20;-40
 Specimen_DE_01;Parasite Queen;Reina Parasita;130;1316;231;347;231;347;BINGO;ability_slash;ability_slash_plus;-20;-70
 Specimen_DE_02;Cosmo Kong;Cosmo Kong;230;1762;491;737;491;737;LEGEND;ability_slash;ability_slash_plus;-20;-50
 Specimen_DE_03;Slashog;Armadizo;100;1204;182;275;182;275;PVP;ability_slash;ability_slash_plus;-20;-70
