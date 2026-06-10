@@ -16,7 +16,8 @@ Specimen_AA_09;H.U.N.T.3.R;H.U.N.T.3.R;130;1938;453;679;260:AOE;391:AOE;LEGEND;a
 Specimen_AA_10;ED-404;ED-404;250;2888;950;1425;554:AOE;841:AOE;LEGEND;ability_shield;ability_shield_plus;20;30
 Specimen_AA_11;TriAD;TriAD;100;1191;275;398;145:AOE;355:AOE;LEGEND;ability_shield;ability_shield_plus;50;95
 Specimen_AA_12;Cabloid;Cabloide;220;3400;870;1221;435:AOE;653:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-25
-Specimen_AA_13;TCB-8566 Trafficroid;TCB-8566 Trafficroid;170;2054;755;1122;544:AOE;845:AOE;LEGEND;ability_weaken;ability_weaken_plus;-20;-30
+Specimen_AA_13;TCB-8566 Trafficroid;TCB-8566 Trafficroid;170;2026;1033;1432;624:AOE;815:AOE;LEGEND;ability_weaken;ability_weaken_plus;-20;-30
+Specimen_AA_14;Arbitrator;Arbitraro;185;2054;755;1122;544:AOE;845:AOE;LEGEND;ability_weaken;ability_weaken_plus;-20;-30
 Specimen_AA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_AA_99;A00-C0R3-C0NTR0L;A00-C0R3-C0NTR0L;200;4621;1240;1861;752:AOE;1022:AOE;CAPTAINPEACE;ability_shield;ability_shield_plus;25;55
 Specimen_AB_01;Dead Bot;Necrobot;140;1197;254;382;254;382;BINGO;ability_shield;ability_shield_plus;20;30
