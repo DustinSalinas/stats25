@@ -507,7 +507,7 @@ Specimen_FA_10;Mimi Timebender;Mimi Cronocurva;90;983;398;547;398;547;LEGEND;abi
 Specimen_FA_11;Orion;Orion;120;422;666;999;666;999;HEROIC;ability_weaken;ability_weaken_plus;-8;-10
 Specimen_FA_12;Ethereal Cybermancer;Cibermantico Etereo;190;2077;668;1286;668;1286;LEGEND;ability_regen;ability_regen_plus;33;55
 Specimen_FA_13;Boreal Helix;Helicoide Boreal;175;2853;829;1138;560:AOE;844:AOE;SEASONAL;ability_slash;ability_slash_plus;-24;-60
-Specimen_FA_14;Fractal Sorcerer;Hechicero Fractal;185;1420;1451:AOE;1451:AOE;1451:AOE;1451:AOE;LEGEND;ability_shield;ability_shield_plus;16;32
+Specimen_FA_14;Fractal Hexcaster;Hechicero Fractal;185;1420;1451:AOE;1451:AOE;1451:AOE;1451:AOE;LEGEND;ability_shield;ability_shield_plus;16;32
 Specimen_FA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_FA_99;Archangel;Arcangel;260;4076;1241;1862;1241;1862;CAPTAINPEACE;ability_shield;ability_shield_plus;20;30
 Specimen_FB_01;Grim Reapress;La Parca;290;1829;660;992;660;992;BINGO;ability_weaken;ability_weaken_plus;-15;-25
