@@ -103,7 +103,7 @@ Specimen_B_03;Jack O'Lantern;Jack O'Lantern;140;2851;519;781;300:AOE;450:AOE;SEA
 Specimen_B_04;Crow;Cuervo;200;3531;865;1299;496:AOE;746:AOE;SEASONAL;ability_regen;ability_regen_plus;35;50
 Specimen_B_05;Drudge Zombie;Drudge Zombie;150;2230;507;915;507;915;LEGEND;ability_regen;ability_regen_plus;35;60
 Specimen_B_12;Ossembly;Huesamblaje;160;1680;719;1131;719;1131;LEGEND;ability_regen;ability_regen_plus;50;75
-Specimen_B_13;GAR  Zombie Sovereign;GAR, Zombi Soberano;270;3625;807;1311;574:AOE;886:AOE;HEROIC;ability_regen;ability_regen_plus;35;50
+Specimen_B_13;GAR Zombie Sovereign;GAR Zombi Soberano;270;3625;807;1311;574:AOE;886:AOE;HEROIC;ability_regen;ability_regen_plus;35;50
 Specimen_B_14;Spectroplasm;Espectroplasma;185;1951;721;1029;561:AOE;721:AOE;LEGEND;ability_weaken;ability_weaken_plus;-30;-40
 Specimen_B_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_BA_01;Zomborg;Zomborg;220;1846;439;659;439;659;BINGO;ability_regen;ability_regen_plus;30;55
