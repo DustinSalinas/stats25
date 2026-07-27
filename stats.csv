@@ -266,7 +266,7 @@ Specimen_CE_01;Martian Marauder;Marciano Errante;115;1109;210;345;210;345;BINGO;
 Specimen_CE_02;Geminium;Geminium;230;2503;706;1060;706;1060;ZODIAC;ability_retaliate;ability_retaliate_plus;-15;-40
 Specimen_CE_03;Galactic Guardian;Guardian Galactico;290;1780;650;975;650;975;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-25
 Specimen_CE_04;Apex;Zortrex;180;1610;201;315;201;315;LEGEND;ability_strengthen;ability_strengthen_plus;90;130
-Specimen_CE_05;Sun-Duke;Sun-Duke;225;1605;531;996;531;996;GACHA;ability_weaken;ability_weaken_plus;-28;-40
+Specimen_CE_05;Sun-Duke;Sun-Duke;155;1605;531;996;531;996;GACHA;ability_weaken;ability_weaken_plus;-28;-40
 Specimen_CE_06;Iron Eagle;Tomahawk;160;1337;328;493;328;318:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-25
 Specimen_CE_07;Aran;Aran;230;1423;895;1494;895;1494;HEROIC;ability_weaken;ability_weaken_plus;-20;-30
 Specimen_CE_08;Nameless King;El Rey sin Nombre;215;1551;622;933;622;933;LEGEND;ability_strengthen;ability_strengthen_plus;20;37
