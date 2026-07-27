@@ -484,7 +484,7 @@ Specimen_EF_10;Divastator;Divastator;150;1555;336;520;336;520;LEGEND;ability_wea
 Specimen_EF_11;Dimentio;Dimentio;113;1427;353;1111;353;1111;LEGEND;ability_retaliate;ability_retaliate_plus;-10;-23
 Specimen_EF_12;X'astuth;X'astuth;270;2242;873;1259;873;1259;HEROIC;ability_slash;ability_slash_plus;-35;-70
 Specimen_EF_13;Achernar;Achernar;165;1873;411:AOE;766:AOE;822;1391;LEGEND;ability_regen;ability_regen_plus;12;30
-Specimen_EF_14;K'Yu T'ypaï;K'yu T'ypaï;311;2114;755;1088;411:AOE;766:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-22;-33
+Specimen_EF_14;K'Yu T'ypaï;K'yu T'ypaï;105;2114;755;1088;411:AOE;766:AOE;SEASONAL;ability_weaken;ability_weaken_plus;-22;-33
 Specimen_EF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_EF_99;Singularity Wizard;Mago de la Singularidad;250;4201;752:AOE;1158:AOE;1370;2100;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;24;38
 Specimen_F_01;Demon;Diablesa;210;1627;461;690;461;690;BINGO;ability_weaken;ability_weaken_plus;-20;-30
