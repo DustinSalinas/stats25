@@ -466,7 +466,7 @@ Specimen_EE_07;Marship Mallow;Astro Gummy;150;1756;361;543;208:AOE;310:AOE;PVP;a
 Specimen_EE_08;Golemagnus;Golemagnus;290;2415;800;1201;459:AOE;690:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_EE_09;Megastral;Megastral;280;2539;900;1351;451:AOE;675:AOE;LEGEND;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_EE_10;Extra Terrorcycle;E.T.-Liot;140;2125;469;703;270:AOE;404:AOE;LEGEND;ability_weaken;ability_weaken_plus;-28;-42
-Specimen_EE_11;Gestalt Asteroid;Asteroide Gestalt;160;2419;721;1443;721;721:AOE;LEGEND;ability_regen;ability_regen_plus;15;40
+Specimen_EE_11;Gestalt Asteroid;Asteroide Gestalt;160;2419;721;1443;721:AOE;721:AOE;LEGEND;ability_regen;ability_regen_plus;15;40
 Specimen_EE_12;Polaris;Polaris;190;3935;831;2431;604:AOE;1649:AOE;CAPTAINPEACE;ability_shield;ability_shield_plus;30;50
 Specimen_EE_13;Orbital Nexus;Nexo Orbital;255;2566;1184;1661;821:AOE;1234:AOE;HEROIC;ability_shield;ability_shield_plus;32;48
 Specimen_EE_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
