@@ -508,7 +508,7 @@ Specimen_FA_11;Orion;Orion;120;422;666;999;666;999;HEROIC;ability_weaken;ability
 Specimen_FA_12;Ethereal Cybermancer;Cibermantico Etereo;190;2077;668;1286;668;1286;LEGEND;ability_regen;ability_regen_plus;33;55
 Specimen_FA_13;Boreal Helix;Helicoide Boreal;175;2853;829;1638;560:AOE;1044:AOE;SEASONAL;ability_slash;ability_slash_plus;-24;-70
 Specimen_FA_14;Fractal Hexcaster;Hechicero Fractal;185;1420;1451:AOE;1451:AOE;1451:AOE;1451:AOE;LEGEND;ability_shield;ability_shield_plus;16;32
-Specimen_FA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
+Specimen_FA_15;Majicka, Arithmamcy Queen;Majicka, Reina Aritmántica;216;4680;1014;2197;1014;2197;SEASONAL;ability_strengthen;ability_strengthen_plus;13;39
 Specimen_FA_99;Archangel;Arcangel;260;5076;1241;2262;1241;2262;CAPTAINPEACE;ability_shield;ability_shield_plus;20;30
 Specimen_FB_01;Grim Reapress;La Parca;290;1829;660;992;660;992;BINGO;ability_weaken;ability_weaken_plus;-15;-25
 Specimen_FB_02;Prince Scorpion;Principe Escorpion;175;2568;524;930;524;930;ZODIAC;ability_weaken;ability_weaken_plus;-15;-25
