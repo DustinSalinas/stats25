@@ -134,7 +134,7 @@ Specimen_BB_10;T-3rr0r;T-3rr0r;170;2840;440;691;253:AOE;404:AOE;LEGEND;ability_w
 Specimen_BB_11;The Forgotten One;La Olvidada;250;5480;1036;1544;613:AOE;959:AOE;CAPTAINPEACE;ability_regen;ability_regen_plus;38;55
 Specimen_BB_12;The Lantern Doctor;Doctor del Farol;210;4119;1211;2316;606:AOE;1552:AOE;CAPTAINPEACE;ability_weaken;ability_weaken_plus;-28;-48
 Specimen_BB_13;The Phosphorescent;El Fosforescente;240;2833;1011;1553;586:AOE;1077:AOE;LEGEND;ability_retaliate;ability_retaliate_plus;-15;-40
-Specimen_BB_14;Thirsty for blood;Sediento de Sangre;220;1744;614;770;1360:AOE;1480:AOE;LEGEND;ability_slash;ability_slash_plus;-100;-200
+Specimen_BB_14;Hematoghoul;Hematógulo;220;1744;614;770;1360:AOE;1480:AOE;LEGEND;ability_slash;ability_slash_plus;-100;-200
 Specimen_BB_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_BC_01;Dire Despot;Despota Negro;270;1919;559;840;559;840;BINGO;ability_regen;ability_regen_plus;30;48
 Specimen_BC_02;Captain Bag âOâ Bones;Capitan Osamenta;180;1351;347;520;347;520;RECIPE;ability_strengthen;ability_strengthen_plus;20;35
@@ -314,7 +314,7 @@ Specimen_DA_11;The An0maly;An0malie;120;1672;264;672;325;715;LEGEND;ability_shie
 Specimen_DA_12;Data Snail;Tecnocaracol;275;2995;1085;1629;1085;1629;LEGEND;ability_shield;ability_shield_plus;25;50
 Specimen_DA_13;Dreaming Anthroborg;Antropobot Soñador;255;2642;634;971;634;971;LEGEND;ability_strengthen;ability_strengthen_plus;30;45
 Specimen_DA_14;B.U.N. Overmind;B.U.N. Genio;135;2999;930;1755;930;1755;SEASONAL;ability_slash;ability_slash_plus;15;25
-Specimen_DA_15;gitafa;gitafa;210;1775;1048;1532;1048;1532;LEGEND;ability_strengthen;ability_strengthen_plus;25;40
+Specimen_DA_15;gitafa;Flipflop, Jirafa Mórfica;210;1775;1048;1532;1048;1532;LEGEND;ability_strengthen;ability_strengthen_plus;25;40
 Specimen_DB_01;Cerberus;Cerbero;170;1485;320;481;320;481;BINGO;ability_slash;ability_slash_plus;-20;-55
 Specimen_DB_02;Zombat;Zombat;85;1145;162;243;162;243;PVP;ability_slash;ability_slash_plus;-20;-80
 Specimen_DB_03;Cobrakai;Cobrakai;260;1856;569;854;569;854;LEGEND;ability_slash;ability_slash_plus;-20;-40
