@@ -313,7 +313,7 @@ Specimen_DA_11;The An0maly;An0malie;120;1672;264;672;325;715;LEGEND;ability_shie
 Specimen_DA_12;Data Snail;Tecnocaracol;275;2995;1085;1629;1085;1629;LEGEND;ability_shield;ability_shield_plus;25;50
 Specimen_DA_13;Dreaming Anthroborg;Antropobot Soñador;255;2642;634;971;634;971;LEGEND;ability_strengthen;ability_strengthen_plus;30;45
 Specimen_DA_14;B.U.N. Overmind;B.U.N. Genio;135;2999;930;1755;930;1755;SEASONAL;ability_slash;ability_slash_plus;15;25
-Specimen_DA_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
+Specimen_DA_15;gitafa;gitafa;210;1775;1048;1532;1048;1532;LEGEND;ability_strengthen;ability_strengthen_plus;25;40
 Specimen_DB_01;Cerberus;Cerbero;170;1485;320;481;320;481;BINGO;ability_slash;ability_slash_plus;-20;-55
 Specimen_DB_02;Zombat;Zombat;85;1145;162;243;162;243;PVP;ability_slash;ability_slash_plus;-20;-80
 Specimen_DB_03;Cobrakai;Cobrakai;260;1856;569;854;569;854;LEGEND;ability_slash;ability_slash_plus;-20;-40
