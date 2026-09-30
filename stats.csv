@@ -388,6 +388,7 @@ Specimen_DF_10;Gwenn;Gwenn;150;1847;353;532;353;532;LEGEND;ability_strengthen;ab
 Specimen_DF_11;Chocolem;Chocolem;250;3487;1309;1964;1309;1964;CAPTAINPEACE;ability_regen;ability_regen_plus;20;30
 Specimen_DF_12;Basilisc&Tarragon;Basilisco y Esdragon;310;4033;1123;1941;1123;1981;GACHA;ability_regen;ability_regen_plus;25;40
 Specimen_DF_13;Frozen Emperor;Emperador Helado;220;1974;770;1496;770;1155:AOE;LEGEND;ability_shield;ability_shield_plus;30;45
+Specimen_DF_14;Supercell Dragon;Dragón Supercel;240;2214;1024;1667;1024;1124;LEGEND;ability_retaliate;ability_retaliate_plus;-25;-45
 Specimen_DF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_DF_99;Genimal;Genimal;100;2542;470;1031;470;1031;CAPTAINPEACE;ability_slash;ability_slash_plus;-20;-30
 Specimen_E_01;Alien;Extraterrestre;90;1049;165;250;165;250;BINGO;ability_strengthen;ability_strengthen_plus;20;30
@@ -455,7 +456,7 @@ Specimen_ED_11;Owlock;Owlock;240;1999;830;1398;830;1398;LEGEND;ability_retaliate
 Specimen_ED_12;Ammonia Atlantica;Ammonia Atlantica;220;2105;947;1387;947;1387;LEGEND;ability_strengthen;ability_strengthen_plus;20;38
 Specimen_ED_13;Medinosaur;Medinosaurio;160;1675;1023;1511;1023;1511;LEGEND;ability_slash;ability_slash_plus;-15;-30
 Specimen_ED_14;Hydrydra;Hidrira;290;2855;1477;1933;966:AOE;1477:AOE;LEGEND;ability_shield;ability_shield_plus;25;30
-Specimen_ED_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
+Specimen_ED_15;Finance Shark;Tiburón Financiero;180;988;751;1335;751;1335;LEGEND;ability_weaken;ability_weaken_plus;-40;-62
 Specimen_ED_99;Ctopy;Octopia;280;4697;1134;1677;565:AOE;988:AOE;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;25;45
 Specimen_EE_01;Astro Surfer;Astrosurfista;260;2025;671;1006;385:AOE;579:AOE;BINGO;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_EE_02;Supernovus;Supernovus;190;1830;488;733;280:AOE;420:AOE;PVP;ability_strengthen;ability_strengthen_plus;20;35
