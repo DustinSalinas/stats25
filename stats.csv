@@ -120,7 +120,7 @@ Specimen_BA_11;Roadmaster;Roadmaster;165;2689;225:AOE;458:AOE;392;788;LEGEND;abi
 Specimen_BA_12;Cre$u$;Cr\$u\$;290;2499;607:AOE;1311:AOE;1077;1782;LEGEND;ability_weaken;ability_weaken_plus;-25;-40
 Specimen_BA_13;The Anarchic;La Anárquica;175;1488;445;845:AOE;445;1224;LEGEND;ability_strengthen;ability_strengthen_plus;10;50
 Specimen_BA_14;Mecargoyle;Mecargola;170;2421;1224;1832;1224;1832;CAPTAINPEACE;ability_slash;ability_slash_plus;-60;-110
-Specimen_BA_15;Formula Death;Fórmula Mortal;85;854;436;686;436;686;LEGEND;ability_regen;ability_regen_plus;15;25
+Specimen_BA_15;Formula Death;Fórmula Muerte;85;854;436:AOE;686:AOE;436:AOE;686:AOE;LEGEND;ability_regen;ability_regen_plus;15;25
 Specimen_BB_01;Leech Lord;Lord Blood;240;2151;609;914;349:AOE;525:AOE;BINGO;ability_regen;ability_regen_plus;30;55
 Specimen_BB_02;Crypt Wraith;Espectro de la Cripta;140;1758;339;509;195:AOE;291:AOE;PVP;ability_regen;ability_regen_plus;30;50
 Specimen_BB_03;Cursed Rider;Motero Maldito;100;2080;228;319;133:AOE;198:AOE;LEGEND;ability_regen;ability_regen_plus;30;45
@@ -441,7 +441,7 @@ Specimen_EC_10;Gamallia;Gamallia;200;1385;660;1005;660;1005;LEGEND;ability_stren
 Specimen_EC_11;Veren Kaeesu;Veren Kaeesu;170;2731;1294;2291;1294;2291;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;25;32
 Specimen_EC_12;Stellarian Lithominer;Litominero Stellariano;200;2134;959;1538;959;1538;LEGEND;ability_weaken;ability_weaken_plus;-10;-15
 Specimen_EC_13;Hekatoncheiros;Hekantocheiros;295;2425;1078;1842;1078;1842;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-35
-Specimen_EC_14;Selene;Selene;220;4233;1818;2584;1818;1818;SEASONAL;ability_retaliate;ability_retaliate_plus;-25;-38
+Specimen_EC_14;Selene;Selene;220;4233;1818;2584;1818:AOE;1818:AOE;SEASONAL;ability_retaliate;ability_retaliate_plus;-25;-38
 Specimen_EC_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_ED_01;Xenos;Xenos;120;1151;232;350;232;350;BINGO;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_ED_02;Shell Shock;Rocageno;220;1570;465;699;465;699;PVP;ability_strengthen;ability_strengthen_plus;20;35
