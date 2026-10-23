@@ -388,7 +388,7 @@ Specimen_DF_10;Gwenn;Gwenn;150;1847;353;532;353;532;LEGEND;ability_strengthen;ab
 Specimen_DF_11;Chocolem;Chocolem;250;3487;1309;1964;1309;1964;CAPTAINPEACE;ability_regen;ability_regen_plus;20;30
 Specimen_DF_12;Basilisc&Tarragon;Basilisco y Esdragon;310;4033;1123;1941;1123;1981;GACHA;ability_regen;ability_regen_plus;25;40
 Specimen_DF_13;Frozen Emperor;Emperador Helado;220;1974;770;1496;770;1155:AOE;LEGEND;ability_shield;ability_shield_plus;30;45
-Specimen_DF_14;Supercell Dragon;Dragón Supercel;240;2214;1024;1667;1024;1124;LEGEND;ability_retaliate;ability_retaliate_plus;-25;-45
+Specimen_DF_14;Supercell Dragon;Dragón Supercélula;240;2214;1024;1667;1024;1124;LEGEND;ability_retaliate;ability_retaliate_plus;-25;-45
 Specimen_DF_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_DF_99;Genimal;Genimal;100;2542;470;1031;470;1031;CAPTAINPEACE;ability_slash;ability_slash_plus;-20;-30
 Specimen_E_01;Alien;Extraterrestre;90;1049;165;250;165;250;BINGO;ability_strengthen;ability_strengthen_plus;20;30
@@ -441,7 +441,7 @@ Specimen_EC_10;Gamallia;Gamallia;200;1385;660;1005;660;1005;LEGEND;ability_stren
 Specimen_EC_11;Veren Kaeesu;Veren Kaeesu;170;2731;1294;2291;1294;2291;CAPTAINPEACE;ability_strengthen;ability_strengthen_plus;25;32
 Specimen_EC_12;Stellarian Lithominer;Litominero Stellariano;200;2134;959;1538;959;1538;LEGEND;ability_weaken;ability_weaken_plus;-10;-15
 Specimen_EC_13;Hekatoncheiros;Hekantocheiros;295;2425;1078;1842;1078;1842;LEGEND;ability_retaliate;ability_retaliate_plus;-20;-35
-Specimen_EC_14;Selene;Selene;220;4233;1818;2584;1818:AOE;1818:AOE;SEASONAL;ability_retaliate;ability_retaliate_plus;-25;-38
+Specimen_EC_14;Selene;Celene;220;4233;1818;2584;1818:AOE;1818:AOE;SEASONAL;ability_retaliate;ability_retaliate_plus;-25;-38
 Specimen_EC_15;No Name;No Name;100;1000;100;150;100;150;BASIC;ability_shield;ability_shield_plus;20;30
 Specimen_ED_01;Xenos;Xenos;120;1151;232;350;232;350;BINGO;ability_strengthen;ability_strengthen_plus;20;30
 Specimen_ED_02;Shell Shock;Rocageno;220;1570;465;699;465;699;PVP;ability_strengthen;ability_strengthen_plus;20;35
